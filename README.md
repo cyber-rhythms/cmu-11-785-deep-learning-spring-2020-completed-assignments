@@ -1,1 +1,1 @@
-# cmu-11-785-deep-learning-spring-2020-completed-assignments
+CMU 11-785 Deep Learning Spring 2020 (Bhiksha Raj)
